@@ -1,0 +1,663 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Lighting Lamp",
+      "slug": "lighting-lamp",
+      "image": [
+        "assets/img/products/product-9-1-270x360.jpg",
+        "assets/img/products/product-9-2-270x360.jpg"
+      ],
+      "desc": "Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor.",
+      "price": 5.99,
+      "quantity": 1,
+      "color": "Black"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Jane Lauren Design Chair",
+      "slug": "jane-lauren-design-chair",
+      "image": [
+        "assets/img/products/product-10-1-270x360.jpg",
+        "assets/img/products/product-10-1-270x360.jpg"
+      ],
+      "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+      "price": 4.99,
+      "quantity": 1,
+      "color": "Mavi"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Jane Lauren Gregory Chair",
+      "slug": "jane-lauren-gregory-chair",
+      "image": [
+        "assets/img/products/product-11-1-270x360.jpg",
+        "assets/img/products/product-11-2-270x360.jpg"
+      ],
+      "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+      "price": 8.99,
+      "quantity": 1,
+      "color": "Gray"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Candice Desk Lamp",
+      "slug": "candice-desk-lamp",
+      "image": [
+        "assets/img/products/product-12-1-270x360.jpg",
+        "assets/img/products/product-12-2-270x360.jpg"
+      ],
+      "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+      "price": 6.49,
+      "quantity": 1,
+      "color": "Green"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Ovora Step stool",
+      "slug": "ovora-step-stool",
+      "image": [
+        "assets/img/products/product-13-1-270x360.jpg",
+        "assets/img/products/product-13-2-270x360.jpg"
+      ],
+      "desc": "Homemade boysenberry jam with a perfect balance of sweetness.Homemade boysenberry jam with a perfect balance of sweetness.Homemade boysenberry jam with a perfect balance of sweetness.Homemade boysenberry jam with a perfect balance of sweetness.",
+      "price": 7.99,
+      "quantity": 1,
+      "color": "Mint"
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Jane Lauren Carson Chair",
+      "slug": "jane-lauren-carson-chair",
+      "image": [
+        "assets/img/products/product-14-1-270x360.jpg",
+        "assets/img/products/product-14-2-270x360.jpg"
+      ],
+      "desc": "Sun-dried organic pears, a healthy and natural snack.Sun-dried organic pears, a healthy and natural snack.Sun-dried organic pears, a healthy and natural snack.Sun-dried organic pears, a healthy and natural snack.",
+      "price": 10.99,
+      "quantity": 1,
+      "color": "Dark Gray"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "A Rich Life with Fruits",
+      "slug": "a-rich-life-with-fruits",
+      "image": "assets/img/blog/slider/one-1170x770.jpg",
+      "date": "07.2023",
+      "desc": "Get lost in the world of fruits, packed with vitamins and antioxidants!"
+    },
+    {
+      "id": 2,
+      "title": "Guide to Creating a Fruit Orchard",
+      "slug": "guide-to-creating-a-fruit-orchard",
+      "image": "assets/img/blog/slider/five-1170x770.jpg",
+      "date": "08.2023",
+      "desc": "Are you ready to enjoy the joy of creating your own fruit orchard? In this guide, you'll find step-by-step instructions, from planting fruit trees to maintenance. Enjoy the taste of fresh and organic fruits from your own garden!"
+    },
+    {
+      "id": 3,
+      "title": "Creating An Organized Multi-Use Room",
+      "slug": "creating-an-organized-multi-use-room",
+      "image": "assets/img/blog/slider/five-1170x770.jpg",
+      "date": "January 21, 2019",
+      "desc": "Many furniture companies claim their products are “green,” a designation usually referring to material sourcing. Maybe their sofa frames are made out of dumpster-sourced scrap metal or their cushions are…"
+    },
+    {
+      "id": 4,
+      "title": "Delicious Recipes for Fruit Enthusiasts",
+      "slug": "delicious-recipes-for-fruit-enthusiasts",
+      "image": "assets/img/blog/slider/six-1170x770.jpg",
+      "date": "10.2023",
+      "desc": "A post specially curated for fruit lovers! Create wonders in the kitchen with sweet and savory fruit recipes. Both healthy and tasty snacks await you!"
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Furniture in Modern World",
+      "slug": "sustainable-furniture-in-modern-world",
+      "image": "assets/img/blog/slider/six-1170x770.jpg",
+      "date": "January 23, 2021",
+      "desc": "Many furniture companies claim their products are “green,” a designation usually referring to material sourcing. Maybe their sofa frames are made out of dumpster-sourced scrap metal or their cushions are…"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Citrus"
+    },
+    {
+      "id": 2,
+      "categoryName": "Berries"
+    },
+    {
+      "id": 3,
+      "categoryName": "TropicalFruits"
+    },
+    {
+      "id": 4,
+      "categoryName": "StoneFruits"
+    },
+    {
+      "id": 5,
+      "categoryName": "Melons"
+    },
+    {
+      "id": 6,
+      "categoryName": "ApplesandPears"
+    },
+    {
+      "id": 7,
+      "categoryName": "ExoticFruits"
+    },
+    {
+      "id": 8,
+      "categoryName": "Grapes"
+    }
+  ],
+  "orders": [
+    {
+      "id": "j2dszetpcpalqcyurht",
+      "cartProducts": [
+        {
+          "id": 5,
+          "categoryId": 2,
+          "productName": "Candice Desk Lamp",
+          "slug": "candice-desk-lamp",
+          "image": [
+            "assets/img/products/product-12-1-270x360.jpg",
+            "assets/img/products/product-12-2-270x360.jpg"
+          ],
+          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+          "price": 6.49,
+          "quantity": "2",
+          "color": "Green"
+        },
+        {
+          "id": 1,
+          "categoryId": 2,
+          "productName": "Lighting Lamp",
+          "slug": "lighting-lamp",
+          "image": [
+            "assets/img/products/product-9-1-270x360.jpg",
+            "assets/img/products/product-9-2-270x360.jpg"
+          ],
+          "desc": "Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor.",
+          "price": 5.99,
+          "quantity": 1,
+          "color": "Black"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "asd",
+        "lastName": "asd",
+        "email": "asd",
+        "phone": "asd",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 18.97
+    },
+    {
+      "id": "hm7axkfm8mrlqcyuu4o",
+      "cartProducts": [
+        {
+          "id": 5,
+          "categoryId": 2,
+          "productName": "Candice Desk Lamp",
+          "slug": "candice-desk-lamp",
+          "image": [
+            "assets/img/products/product-12-1-270x360.jpg",
+            "assets/img/products/product-12-2-270x360.jpg"
+          ],
+          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+          "price": 6.49,
+          "quantity": "2",
+          "color": "Green"
+        },
+        {
+          "id": 1,
+          "categoryId": 2,
+          "productName": "Lighting Lamp",
+          "slug": "lighting-lamp",
+          "image": [
+            "assets/img/products/product-9-1-270x360.jpg",
+            "assets/img/products/product-9-2-270x360.jpg"
+          ],
+          "desc": "Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor. Freshly squeezed orange juice with a burst of citrus flavor.",
+          "price": 5.99,
+          "quantity": 1,
+          "color": "Black"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "asd",
+        "lastName": "asd",
+        "email": "asd",
+        "phone": "asd",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 18.97
+    },
+    {
+      "id": "epqgznmxgfhlqcz0d8w",
+      "cartProducts": [
+        {
+          "id": 2,
+          "categoryId": 1,
+          "productName": "Jane Lauren Design Chair",
+          "slug": "jane-lauren-design-chair",
+          "image": [
+            "assets/img/products/product-10-1-270x360.jpg",
+            "assets/img/products/product-10-1-270x360.jpg"
+          ],
+          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+          "price": 4.99,
+          "quantity": 1,
+          "color": "Mavi"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "s",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 4.99
+    },
+    {
+      "id": "o58b5xrbtbblqddh4b2",
+      "cartProducts": [],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 0
+    },
+    {
+      "id": "htbrwtpas7rlqddogcl",
+      "cartProducts": [],
+      "billingAddress": {
+        "firstName": "yas",
+        "lastName": "Solmaz",
+        "email": "solmazyasin@hotmail.com",
+        "phone": "05522654558",
+        "companyName": "University of Kocaeli",
+        "addressLine1": "Mevlana mah.",
+        "addressLine2": "izmit",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 0
+    },
+    {
+      "id": "lf2pr1uaswplqddwwf1",
+      "cartProducts": [
+        {
+          "id": 2,
+          "categoryId": 1,
+          "productName": "Jane Lauren Design Chair",
+          "slug": "jane-lauren-design-chair",
+          "image": [
+            "assets/img/products/product-10-1-270x360.jpg",
+            "assets/img/products/product-10-1-270x360.jpg"
+          ],
+          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+          "price": 4.99,
+          "quantity": "2",
+          "color": "Mavi"
+        },
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": 1,
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 18.97
+    },
+    {
+      "id": "xwueyhhmgzilqddybf1",
+      "cartProducts": [
+        {
+          "id": 2,
+          "categoryId": 1,
+          "productName": "Jane Lauren Design Chair",
+          "slug": "jane-lauren-design-chair",
+          "image": [
+            "assets/img/products/product-10-1-270x360.jpg",
+            "assets/img/products/product-10-1-270x360.jpg"
+          ],
+          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+          "price": 4.99,
+          "quantity": "2",
+          "color": "Mavi"
+        },
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": 1,
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 18.97
+    },
+    {
+      "id": "byt998wirdlqddzdd2",
+      "cartProducts": [
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": "4",
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 35.96
+    },
+    {
+      "id": "ob4a7r5c1gqlqddzlvh",
+      "cartProducts": [
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": "4",
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 35.96
+    },
+    {
+      "id": "e2z966g5b8olqde14al",
+      "cartProducts": [
+        {
+          "id": 2,
+          "categoryId": 1,
+          "productName": "Jane Lauren Design Chair",
+          "slug": "jane-lauren-design-chair",
+          "image": [
+            "assets/img/products/product-10-1-270x360.jpg",
+            "assets/img/products/product-10-1-270x360.jpg"
+          ],
+          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+          "price": 4.99,
+          "quantity": "2",
+          "color": "Mavi"
+        },
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": 1,
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "Yasin Çağrı",
+        "lastName": "Solmaz",
+        "email": "solmazyasin@hotmail.com",
+        "phone": "05522654558",
+        "companyName": "University of Kocaeli",
+        "addressLine1": "Mevlana mah.",
+        "addressLine2": "izmit",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 18.97
+    },
+    {
+      "id": "70wlepz7sawlqde4tjg",
+      "cartProducts": [
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": "3",
+          "color": "Gray"
+        },
+        {
+          "id": 5,
+          "categoryId": 2,
+          "productName": "Candice Desk Lamp",
+          "slug": "candice-desk-lamp",
+          "image": [
+            "assets/img/products/product-12-1-270x360.jpg",
+            "assets/img/products/product-12-2-270x360.jpg"
+          ],
+          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+          "price": 6.49,
+          "quantity": "2",
+          "color": "Green"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "yasin",
+        "lastName": "solmaz",
+        "email": "180207021@kocaeli.edu.tr",
+        "phone": "+905522654558",
+        "companyName": "kocaeli univercity",
+        "addressLine1": "kocaeli",
+        "addressLine2": "izmit",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 39.95
+    },
+    {
+      "id": "kneih8l7haelqe7d1x7",
+      "cartProducts": [
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": 1,
+          "color": "Gray"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "companyName": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 8.99
+    },
+    {
+      "id": "1udq1cdjgj2lqe7jgej",
+      "cartProducts": [
+        {
+          "id": 4,
+          "categoryId": 1,
+          "productName": "Jane Lauren Gregory Chair",
+          "slug": "jane-lauren-gregory-chair",
+          "image": [
+            "assets/img/products/product-11-1-270x360.jpg",
+            "assets/img/products/product-11-2-270x360.jpg"
+          ],
+          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
+          "price": 8.99,
+          "quantity": 1,
+          "color": "Gray"
+        },
+        {
+          "id": 5,
+          "categoryId": 2,
+          "productName": "Candice Desk Lamp",
+          "slug": "candice-desk-lamp",
+          "image": [
+            "assets/img/products/product-12-1-270x360.jpg",
+            "assets/img/products/product-12-2-270x360.jpg"
+          ],
+          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+          "price": 6.49,
+          "quantity": "2",
+          "color": "Green"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "Yasin Çağrı",
+        "lastName": "Solmaz",
+        "email": "solmazyasin@hotmail.com",
+        "phone": "05522654558",
+        "companyName": "University of Kocaeli",
+        "addressLine1": "Mevlana mah.",
+        "addressLine2": "izmit",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 21.97
+    }
+  ]
+}
